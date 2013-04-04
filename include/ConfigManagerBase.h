@@ -1,7 +1,7 @@
 #ifndef __CONFIGMANAGERBASE_H_
 #define __CONFIGMANAGERBASE_H_
 
-#include <iostream>	// only for debug...
+#include <iostream>	// only for debug purposes...
 #include "SimpleIni.h"
 
 namespace MiscTimeAndConfig
