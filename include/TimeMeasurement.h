@@ -1,6 +1,8 @@
 #ifndef __TIMEMEASUREMENT_H_
 #define __TIMEMEASUREMENT_H_
 
+// E! :)
+
 #include <assert.h>
 #include <time.h>
 #include <iostream>
